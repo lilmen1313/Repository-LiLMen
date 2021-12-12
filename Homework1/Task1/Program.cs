@@ -4,6 +4,7 @@
 // б) используя форматированный вывод;
 // в) используя вывод со знаком $.
 
+Console.WriteLine("Анкета");
 Console.Write("Введите ваше имя: ");
 string Name = Console.ReadLine();
 Console.Write("Введите вашу фамилию: ");
@@ -14,23 +15,9 @@ Console.Write("Введите ваш рост (см): ");
 string Growth = Console.ReadLine();
 Console.Write("Введите ваш вес (кг): ");
 string Weight = Console.ReadLine();
-
-string h = Name + "; " + Surname + "; " + Age + "; " + Growth + "; " + Weight;
+string h = Name + "; " + Surname + "; " + Age + "; " + Growth + "; " + Weight + "."; // склеивание
 Console.WriteLine ("Результат: {0}", h);
-
-
-
-
-// Console.Write ("{0}, {1}, {2}, {3}, {4}", Name, Surname, Age, Growth, Weight);
-
-
-// string s="string";
-// string str=s[0].ToString()+s[1]+s[2]+s[5];
-// Console.WriteLine(str);
-
-
-
-// double j=156.555555555;
-// double h=156.555555555;
-// double d=
-// Console.WriteLine("{0:F3}", j);
+string k = String.Format("{0}; {1}; {2}; {3}; {4}.", Name, Surname, Age, Growth, Weight); //явно форматированный вывод
+Console.WriteLine ("Результат: {0}", k);
+string l = String.Format($"{Name}, {Surname}, {Age}, {Growth}, {Weight}."); //вывод с использованием интерполяции ($)
+Console.WriteLine ("Результат: {0}", l);
