@@ -1,0 +1,15 @@
+F:\VS Code\General\Homework1\Task3\bin\Debug\net6.0\Task3.exe
+F:\VS Code\General\Homework1\Task3\bin\Debug\net6.0\Task3.deps.json
+F:\VS Code\General\Homework1\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+F:\VS Code\General\Homework1\Task3\bin\Debug\net6.0\Task3.dll
+F:\VS Code\General\Homework1\Task3\bin\Debug\net6.0\ref\Task3.dll
+F:\VS Code\General\Homework1\Task3\bin\Debug\net6.0\Task3.pdb
+F:\VS Code\General\Homework1\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+F:\VS Code\General\Homework1\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS Code\General\Homework1\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+F:\VS Code\General\Homework1\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+F:\VS Code\General\Homework1\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+F:\VS Code\General\Homework1\Task3\obj\Debug\net6.0\Task3.dll
+F:\VS Code\General\Homework1\Task3\obj\Debug\net6.0\ref\Task3.dll
+F:\VS Code\General\Homework1\Task3\obj\Debug\net6.0\Task3.pdb
+F:\VS Code\General\Homework1\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
