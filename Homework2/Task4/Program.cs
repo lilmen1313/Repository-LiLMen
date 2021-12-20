@@ -6,50 +6,50 @@
 
 void LogPass ()
 {
-        string log;  
-        int i;
-            
-        for (i = 0; i < 3; i++)
+    #region // блок ввода и проверки логина
+    int i;
+    string log = "Привет";
+    for (i = 0; i < 3; i++)
+    {
+        Console.Write("Введите логин: ");
+        log = Console.ReadLine();
+
+        if (Convert.ToBoolean(log == "root"))
+        {break;}
+        else 
         {
-            Console.Write ("Введите логин: ");
-            log = Console.ReadLine ();
-            if (Convert.ToBoolean (log != "root"))
-            {
-            i++
-            
-            }
-            else {Console.WriteLine($"Введен верный логин: {log}");} break;};
-        } 
+            if (Convert.ToBoolean(log != "root"))
+            {i = i++;}
+            else {Console.WriteLine($"Введен верный логин: {log}");};
+        }
+    }
+
+    if (Convert.ToBoolean(log != "root"))
+        {Console.WriteLine($"Было выполнено {i} попытки ввода неверного логина,\nаккаунт временно заморожен, обратитесь в службу поддержки :)");
+        return;}
+    #endregion
         
+    #region // блок ввода и проверки пароля
+       string pass = "password";
+       int j = 0;
+    do
+    {   
+        Console.Write ("Введите пароль: ");
+        pass = Console.ReadLine ();
+        if (Convert.ToBoolean(pass != "GeekBrains"))
+        {
+            {j++;}
+        }
+        else {break;};
+     
+    } while (j < 3);
 
-                
-        
-            if (Convert.ToBoolean (log != "root"))
-            {
-                Console.WriteLine ($"Было выполнено {i} попытки ввода неверного логина,\nаккаунт временно заморожен, обратитесь в службу поддержки :)");
-                Console.ReadKey();
-            }
+    if (Convert.ToBoolean(pass != "GeekBrains"))
+        {Console.WriteLine($"Было выполнено {j} попытки ввода неверного пароля,\nаккаунт временно заморожен, обратитесь в службу поддержки :)");
+        return;}
+    #endregion
 
-            string pass;
-            int j = 0;
-            do
-        {   
-            Console.WriteLine ("Введите пароль: ");
-            pass = Console.ReadLine ();
-            if (Convert.ToBoolean (pass != "GeekBrains"))
-            {
-            j++;
-            }
-            else {Console.WriteLine($"Введен верный пароль: {pass}");};
-            
-        } while (j < 3);
-
-            if (Convert.ToBoolean (pass != "GeekBrains"))
-            {
-                Console.WriteLine ($"Было выполнено {j} попытки ввода неверного пароля,\nаккаунт временно заморожен, обратитесь в службу поддержки :)");
-                Console.ReadKey();
-            }
-            // Console.WriteLine ($"Введены верные логин ({log}) и пароль ({pass})!");
+Console.WriteLine ($"Введены верные логин ({log}) и пароль ({pass})!");
 }
 
 LogPass ();
