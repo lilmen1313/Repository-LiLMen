@@ -3,8 +3,7 @@
 
 void App ()
 {
-int a = 0;
-int sum = 0;
+int a = 0; int sum = 0; string output = String.Empty;
 do
 {
     Console.Write("Введите число (кроме нуля) и узнаете сумму всех нечетных положительных чисел: ");
@@ -13,10 +12,12 @@ do
         {
             Console.WriteLine($"Нечетное положительное число: {i}");
             sum = sum + i;
+            string ss = Convert.ToString (i);
+            output += "+" + ss;
         }
 } while (a != 0);
 
-Console.Write($"Увы, но вы ввели 0, теперь программа посчитает\nсумму всех нечетных положительных чисел, которые вы ввели: {sum}");
+    Console.WriteLine($"Увы, но вы ввели 0, теперь программа посчитает\nсумму всех нечетных положительных чисел, которые вы ввели {output} = {sum}");
 }
 
 App ();
