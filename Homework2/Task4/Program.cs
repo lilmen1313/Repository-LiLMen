@@ -9,6 +9,8 @@ void LogPass ()
     #region // блок ввода и проверки логина
     int i;
     string log = "Привет";
+    string text1 = "неверных попыток ввода";
+
     for (i = 0; i < 3; i++)
     {
         Console.Write("Введите логин: ");
@@ -25,7 +27,7 @@ void LogPass ()
     }
 
     if (Convert.ToBoolean(log != "root"))
-        {Console.WriteLine($"Было выполнено {i} попытки ввода неверного логина,\nаккаунт временно заморожен, обратитесь в службу поддержки :)");
+        {Console.WriteLine($"Было выполнено {i} {text1} логина,\nаккаунт временно заморожен, обратитесь в службу поддержки :)");
         return;}
     #endregion
         
@@ -45,7 +47,7 @@ void LogPass ()
     } while (j < 3);
 
     if (Convert.ToBoolean(pass != "GeekBrains"))
-        {Console.WriteLine($"Было выполнено {j} попытки ввода неверного пароля,\nаккаунт временно заморожен, обратитесь в службу поддержки :)");
+        {Console.WriteLine($"Было выполнено {j} {text1} пароля,\nаккаунт временно заморожен, обратитесь в службу поддержки :)");
         return;}
     #endregion
 
