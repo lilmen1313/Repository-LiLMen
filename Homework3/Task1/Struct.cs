@@ -6,12 +6,30 @@ struct Complex
     
         public Complex () // конструктор
         {
-            Console.WriteLine("Введите первое вещественное число a: ");
-            double re = Convert.ToDouble(Console.ReadLine());
+            double re = GetNubmer("Введите первое вещественное число a: ");
             a = re;
-            Console.WriteLine("Введите второе вещественное число b: ");
-            double im = Convert.ToDouble(Console.ReadLine());
+            double im = GetNubmer("Введите первое вещественное число b: ");
             b = im;
+                       
+            // Console.WriteLine("Введите первое вещественное число a: ");
+            // double re = Convert.ToDouble(Console.ReadLine());
+            // a = re;
+            // Console.WriteLine("Введите второе вещественное число b: ");
+            // double im = Convert.ToDouble(Console.ReadLine());
+            // b = im;
+        }
+        static double GetNubmer(string text) // защита от дурака
+        {
+            double result;
+            bool flag;
+            do 
+            {
+                Console.WriteLine(text);
+                flag = double.TryParse(Console.ReadLine(), out result); 
+            }
+            while (!flag);
+
+            return result;
         }
         public Complex Plus (Complex x) // метод реализующий сумму комплексных чисел
         {
