@@ -24,10 +24,10 @@
 
 
            // Создайте перегрузку функции, в которой будет указана позиция и цвет
-        static void Main()
-        {
-           Print("Привет!\n", 10,10);
-           Print("Привет еще раз!", ConsoleColor.Red);
-          Console.ReadLine();
-        }
-Main();
+//         static void Main()
+//         {
+//            Print("Привет!\n", 10,10);
+//            Print("Привет еще раз!", ConsoleColor.Red);
+//           Console.ReadLine();
+//         }
+// Main();

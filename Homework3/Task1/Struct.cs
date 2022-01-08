@@ -10,13 +10,6 @@ struct Complex
             a = re;
             double im = GetNubmer("Введите первое вещественное число b: ");
             b = im;
-                       
-            // Console.WriteLine("Введите первое вещественное число a: ");
-            // double re = Convert.ToDouble(Console.ReadLine());
-            // a = re;
-            // Console.WriteLine("Введите второе вещественное число b: ");
-            // double im = Convert.ToDouble(Console.ReadLine());
-            // b = im;
         }
         static double GetNubmer(string text) // защита от дурака
         {
