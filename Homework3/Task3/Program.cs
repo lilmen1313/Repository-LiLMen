@@ -1,2 +1,28 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// ФИ: Асанов Илья
+// а) С клавиатуры вводятся числа, пока не будет введён 0 (каждое число в новой строке). 
+// Требуется подсчитать сумму всех нечётных положительных чисел. Сами числа и сумму вывести на экран, используя tryParse.
+
+class Program
+{
+    static void Main ()
+    {
+    int a = 0; int sum = 0; string output = String.Empty;
+    do
+    {
+        a = Help.ZotD("Введите число (кроме нуля) и узнаете сумму всех нечетных положительных чисел: ");
+    
+        for (int i = a; i > 0 & i % 2 != 0; i++)
+        {
+            Console.WriteLine($"Нечетное положительное число: {i}");
+            sum = sum + i;
+            string ss = Convert.ToString (i);
+            output += "+" + ss;
+        }
+    } while (a != 0);
+
+    Help.ZotD("$Увы, но вы ввели 0, теперь программа посчитает\nсумму всех нечетных положительных чисел, которые вы ввели {output} = {sum}");
+    Console.WriteLine($"Увы, но вы ввели 0, теперь программа посчитает\nсумму всех нечетных положительных чисел, которые вы ввели {output} = {sum}");
+    }
+
+}
+
