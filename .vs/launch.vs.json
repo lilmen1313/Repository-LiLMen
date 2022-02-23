@@ -1,0 +1,37 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "cppdbg",
+      "name": "Program.cs",
+      "project": "Homework3\\Task4\\Program.cs",
+      "projectTarget": "",
+      "cwd": "${workspaceRoot}",
+      "program": "${debugInfo.target}",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\Windows\\System32\\ntdll.dll",
+      "externalConsole": true
+    },
+    {
+      "type": "native",
+      "name": "Program.cs(1)",
+      "project": "Homework3\\Task4\\Program.cs",
+      "projectTarget": ""
+    },
+    {
+      "type": "dll",
+      "exe": "",
+      "project": "Homework3\\Task4\\Program.cs",
+      "projectTarget": "",
+      "name": "Program.cs(2)"
+    },
+    {
+      "type": "dll",
+      "exe": "",
+      "project": "Homework3\\Task4\\Program.cs",
+      "projectTarget": "",
+      "name": "Program.cs(3)"
+    }
+  ]
+}

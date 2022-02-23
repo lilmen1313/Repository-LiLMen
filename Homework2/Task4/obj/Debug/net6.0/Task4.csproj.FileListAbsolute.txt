@@ -1,0 +1,45 @@
+F:\VS Code\General\Homework2\Task4\bin\Debug\net6.0\Task4.exe
+F:\VS Code\General\Homework2\Task4\bin\Debug\net6.0\Task4.deps.json
+F:\VS Code\General\Homework2\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+F:\VS Code\General\Homework2\Task4\bin\Debug\net6.0\Task4.dll
+F:\VS Code\General\Homework2\Task4\bin\Debug\net6.0\ref\Task4.dll
+F:\VS Code\General\Homework2\Task4\bin\Debug\net6.0\Task4.pdb
+F:\VS Code\General\Homework2\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+F:\VS Code\General\Homework2\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS Code\General\Homework2\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+F:\VS Code\General\Homework2\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+F:\VS Code\General\Homework2\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+F:\VS Code\General\Homework2\Task4\obj\Debug\net6.0\Task4.dll
+F:\VS Code\General\Homework2\Task4\obj\Debug\net6.0\ref\Task4.dll
+F:\VS Code\General\Homework2\Task4\obj\Debug\net6.0\Task4.pdb
+F:\VS Code\General\Homework2\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+F:\VS\Repository-LiLMen\Homework2\Task4\bin\Debug\net6.0\Task4.exe
+F:\VS\Repository-LiLMen\Homework2\Task4\bin\Debug\net6.0\Task4.deps.json
+F:\VS\Repository-LiLMen\Homework2\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+F:\VS\Repository-LiLMen\Homework2\Task4\bin\Debug\net6.0\Task4.dll
+F:\VS\Repository-LiLMen\Homework2\Task4\bin\Debug\net6.0\Task4.pdb
+F:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+F:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+F:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+F:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+F:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.dll
+F:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\ref\Task4.dll
+F:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.pdb
+F:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+F:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\refint\Task4.dll
+E:\VS\Repository-LiLMen\Homework2\Task4\bin\Debug\net6.0\Task4.exe
+E:\VS\Repository-LiLMen\Homework2\Task4\bin\Debug\net6.0\Task4.deps.json
+E:\VS\Repository-LiLMen\Homework2\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+E:\VS\Repository-LiLMen\Homework2\Task4\bin\Debug\net6.0\Task4.dll
+E:\VS\Repository-LiLMen\Homework2\Task4\bin\Debug\net6.0\Task4.pdb
+E:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+E:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+E:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+E:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+E:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.dll
+E:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\refint\Task4.dll
+E:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.pdb
+E:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+E:\VS\Repository-LiLMen\Homework2\Task4\obj\Debug\net6.0\ref\Task4.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\VS Code\\General\\Homework1\\Task4\\Task4.csproj",
+      "projectUniqueName": "F:\\VS\\Repository-LiLMen\\Homework1\\Task4\\Task4.csproj",
       "projectName": "Task4",
-      "projectPath": "F:\\VS Code\\General\\Homework1\\Task4\\Task4.csproj",
+      "projectPath": "F:\\VS\\Repository-LiLMen\\Homework1\\Task4\\Task4.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "F:\\VS Code\\General\\Homework1\\Task4\\obj\\",
+      "outputPath": "F:\\VS\\Repository-LiLMen\\Homework1\\Task4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

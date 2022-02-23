@@ -7,7 +7,7 @@ int a = 0; int sum = 0; string output = String.Empty;
 do
 {
     Console.Write("Введите число (кроме нуля) и узнаете сумму всех нечетных положительных чисел: ");
-    a = Convert.ToInt32(Console.ReadLine());
+    va = Convert.ToInt32(Console.ReadLine());
     for (int i = a; i > 0 & i % 2 != 0; i++)
         {
             Console.WriteLine($"Нечетное положительное число: {i}");

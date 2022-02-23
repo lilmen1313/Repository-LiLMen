@@ -1,0 +1,30 @@
+F:\VS Code\General\Homework2\Task2\bin\Debug\net6.0\Task2.exe
+F:\VS Code\General\Homework2\Task2\bin\Debug\net6.0\Task2.deps.json
+F:\VS Code\General\Homework2\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+F:\VS Code\General\Homework2\Task2\bin\Debug\net6.0\Task2.dll
+F:\VS Code\General\Homework2\Task2\bin\Debug\net6.0\ref\Task2.dll
+F:\VS Code\General\Homework2\Task2\bin\Debug\net6.0\Task2.pdb
+F:\VS Code\General\Homework2\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+F:\VS Code\General\Homework2\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS Code\General\Homework2\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+F:\VS Code\General\Homework2\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+F:\VS Code\General\Homework2\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+F:\VS Code\General\Homework2\Task2\obj\Debug\net6.0\Task2.dll
+F:\VS Code\General\Homework2\Task2\obj\Debug\net6.0\ref\Task2.dll
+F:\VS Code\General\Homework2\Task2\obj\Debug\net6.0\Task2.pdb
+F:\VS Code\General\Homework2\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+F:\VS\Repository-LiLMen\Homework2\Task2\bin\Debug\net6.0\Task2.exe
+F:\VS\Repository-LiLMen\Homework2\Task2\bin\Debug\net6.0\Task2.deps.json
+F:\VS\Repository-LiLMen\Homework2\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+F:\VS\Repository-LiLMen\Homework2\Task2\bin\Debug\net6.0\Task2.dll
+F:\VS\Repository-LiLMen\Homework2\Task2\bin\Debug\net6.0\ref\Task2.dll
+F:\VS\Repository-LiLMen\Homework2\Task2\bin\Debug\net6.0\Task2.pdb
+F:\VS\Repository-LiLMen\Homework2\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+F:\VS\Repository-LiLMen\Homework2\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS\Repository-LiLMen\Homework2\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+F:\VS\Repository-LiLMen\Homework2\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+F:\VS\Repository-LiLMen\Homework2\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+F:\VS\Repository-LiLMen\Homework2\Task2\obj\Debug\net6.0\Task2.dll
+F:\VS\Repository-LiLMen\Homework2\Task2\obj\Debug\net6.0\ref\Task2.dll
+F:\VS\Repository-LiLMen\Homework2\Task2\obj\Debug\net6.0\Task2.pdb
+F:\VS\Repository-LiLMen\Homework2\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache

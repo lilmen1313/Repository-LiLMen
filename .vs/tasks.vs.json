@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-Program",
+      "appliesTo": "Homework3/Task4/Program.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "задача-Repository-LiLMen",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "задача-Program",
+      "appliesTo": "Homework2/Task4/Program.cs",
+      "type": "launch"
+    }
+  ]
+}
