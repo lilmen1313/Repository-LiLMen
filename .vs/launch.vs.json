@@ -10,7 +10,7 @@
       "cwd": "${workspaceRoot}",
       "program": "${debugInfo.target}",
       "MIMode": "gdb",
-      "miDebuggerPath": "C:\\Windows\\System32\\ntdll.dll",
+      "miDebuggerPath": "",
       "externalConsole": true
     },
     {
